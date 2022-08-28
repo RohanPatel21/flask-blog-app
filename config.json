@@ -1,0 +1,24 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/myasha",
+      "prod_uri":"mysql://root:@localhost/myasha",
+      "fb_url":"https://www.facebook.com/profile.php?id=100011700322520",
+      "tw_url":"https://twitter.com/tw",
+      "gh_url": "https://github.com/RohanPatel21",
+      "blog_name": "NYU",
+      "tag_line": "The Change and Updating World",
+      "gmail-user":"rohan.patel@nyu.edu",
+      "gmail-password":"xx",
+      "about_text": "Hi we are the leading tech compamy Join us if you are a developer like us.",
+      "no_of_posts":2,
+      "login_image":"login.png",
+      "admin_user":"myasha",
+      "admin_password": "subscribenow",
+      "upload_location":" "
+      
+
+
+    }
+}
